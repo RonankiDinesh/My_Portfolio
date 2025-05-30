@@ -1,6 +1,7 @@
+import quikcharge from "../assets/quikcharge.png";
 import currency from "../assets/currency.png";
 import password from "../assets/password.png";
-import quikcharge from "../assets/quikcharge.png";
+
 
 export const projects = [
   {
